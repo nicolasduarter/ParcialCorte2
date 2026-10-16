@@ -15,4 +15,6 @@ public class OpenApiConfig {
                 .version("v1")
                 .description("Blueprints Laboratory (Java 21 / Spring Boot 3.3.x)"));
     }
+
+
 }
